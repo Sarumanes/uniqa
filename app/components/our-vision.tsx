@@ -18,7 +18,7 @@ function OurVision() {
         </h3>
         <h5 className='col-start-1 col-span-2 row-start-2 text-lg font-semibold'>Naše vize</h5>
         <h3 className='col-start-7 col-span-6 row-start-2 text-2xl'>
-          V roce 2028 je UNIQA Česká republika a Slovensko moderním, zdravým a prosperujícím finančním domem. Využíváme
+          V roce 2028 je UNIQA Česká republika a Slovensko <b>naším výjimečným finančním domem</b>. Využíváme
           omnichannel řešení, abychom poskytovali nejlepší služby zákazníkům. Trh nás vnímá jako společnost s řešeními zaměřenými
           na potřeby rodiny.
         </h3>

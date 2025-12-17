@@ -64,14 +64,28 @@ function Page() {
             <h5 className='col-start-1 col-span-2 row-start-1 text-base font-semibold'>Co tvoří naši DNA</h5>
             <h5 className='col-start-4 col-span-2 row-start-1 text-base font-semibold'>Strategie</h5>
             <h2 className='row-start-1 col-start-7 col-span-6 text-2xl'>
-              Naše strategie na období 2025–2028 vychází ze strategie skupiny UNIQA, ale zároveň naplňuje naše lokální vize a
-              potřeby. Zaměřuje se na 5 klíčových oblastí:
+              Naše strategie na období 2025–2028 vychází ze strategie skupiny UNIQA, ale zároveň naplňuje naše lokální vize a potřeby. Zaměřuje se na 3 klíčové oblasti, 1 podpůrnou oblast a 1 diferenciátor:
             </h2>
-            <ul className='row-start-2 col-start-7 col-span-6 text-2xl list-disc ps-14'>
-              <li>Prosperita: Ziskový růst</li>
-              <li>Zdraví: Lidé a kultura</li>
-              <li>Zdraví: Operational Excellence</li>
-              <li>Nejlepší služby a Omnichannel: Zákazníci a partneři</li>
+            <p className='row-start-2 col-start-7 col-span-6 text-xl font-medium'> <b>
+             Klíčové oblasti:</b>
+            </p>
+            <ul className='row-start-3 col-start-7 col-span-6 text-2xl list-disc ps-14'>
+              <li>Jsme ekonomicky úspěšní</li>
+                <li>Jsme preferovaným zaměstnavatelem</li>
+                <li>Poskytujeme nejlepší služby</li>
+            </ul>
+
+             <p className='row-start-4 col-start-7 col-span-6 text-xl font-medium'> <b>
+             Podpůrná oblast:</b>
+            </p>
+            <ul className='row-start-5 col-start-7 col-span-6 text-2xl list-disc ps-14'>
+              <li>Operational Excellence</li>
+            </ul>
+
+             <p className='row-start-6 col-start-7 col-span-6 text-xl font-medium'> <b>
+             Diferenciátor:</b>
+            </p>
+            <ul className='row-start-7 col-start-7 col-span-6 text-2xl list-disc ps-14'>
               <li>Zaměření na rodinu</li>
             </ul>
           </section>

@@ -62,12 +62,12 @@ function Page() {
             <h5 className='col-start-4 col-span-2 row-start-1 text-base font-semibold'>Strategie</h5>
             <h1 className='col-start-7 col-span-6 row-start-1 text-2xl font-semibold'>Naše mise</h1>
             <h5 className='col-start-7 col-span-6 row-start-2 text-2xl pb-6'>
-              Díky síle naší komunity chráníme a zlepšujeme zdraví a prosperitu. Zvolit si UNIQA znamená žít lépe. Lepší život
-              společně.
+              Díky síle naší komunity chráníme a zlepšujeme zdraví a prosperitu. Zvolit si UNIQA znamená žít lépe. <b>Lepší život
+              společně.</b>
             </h5>
             <h1 className='col-start-7 col-span-6 row-start-3 text-2xl font-semibold'>Naše vize</h1>
             <h5 className='col-start-7 col-span-6 row-start-4 text-2xl'>
-              V roce 2028 je UNIQA Česká republika a Slovensko moderním, zdravým a prosperujícím finančním domem. Využíváme
+              V roce 2028 je UNIQA Česká republika a Slovensko <b>naším výjimečným finančním domem</b>. Využíváme
               omnichannel řešení, abychom poskytovali nejlepší služby zákazníkům. Trh nás vnímá jako společnost s řešeními
               zaměřenými na potřeby rodiny.
             </h5>
@@ -84,14 +84,22 @@ function Page() {
             <Divider className='row-start-2 col-start-7 col-span-6' />
             <div className='row-start-3 row-span-3 col-start-7 col-span-6'>
               <p className='text-lg pb-4'>
-                Naše strategie na období 2025–2028 vychází ze strategie skupiny UNIQA, ale zároveň naplňuje naše lokální vize a
-                potřeby. Zaměřuje se na 5 klíčových oblastí:{' '}
-              </p>
+                Naše strategie na období 2025–2028 vychází ze strategie skupiny UNIQA, ale zároveň naplňuje naše lokální vize a potřeby. Zaměřuje se na 3 klíčové oblasti, 1 podpůrnou oblast a 1 diferenciátor:{' '}
+              </p><br />
+              <p><b>Klíčové oblasti:</b></p>
               <ul className='list-disc text-lg ps-8'>
-                <li>Prosperita: Ziskový růst</li>
-                <li>Zdraví: Lidé a kultura</li>
-                <li>Zdraví: Operational Excellence</li>
-                <li>Nejlepší služby a Omnichannel: Zákazníci a partneři</li>
+                <li>Jsme ekonomicky úspěšní</li>
+                <li>Jsme preferovaným zaměstnavatelem</li>
+                <li>Poskytujeme nejlepší služby</li>
+              </ul>
+              <br />
+              <p><b>Podpůrná oblast:</b></p>
+              <ul className='list-disc text-lg ps-8'>
+                <li>Operational Excellence</li>
+              </ul>
+              <br />
+              <p><b>Diferenciátor:</b></p>
+              <ul className='list-disc text-lg ps-8'>
                 <li>Zaměření na rodinu</li>
               </ul>
             </div>
